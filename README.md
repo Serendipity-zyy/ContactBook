@@ -29,15 +29,13 @@
 克隆仓库或下载源码
 
 ##🖼️ 使用界面示例
-******************************
-******* 1. Add Contact ********
-******* 2. Show Contacts *******
-******* 3. Delete Contact ******
-******* 4. Search Contact ******
-******* 5. Modify Contact ******
-******* 6. Clear All Contacts ***
-******* 0. Exit Program ********
-******************************
+ 1. Add Contact 
+ 2. Show Contacts 
+ 3. Delete Contact 
+ 4. Search Contact 
+ 5. Modify Contact 
+ 6. Clear All Contacts 
+ 0. Exit Program 
 
 ##📌 项目亮点
 
@@ -84,15 +82,15 @@ This is a simple contact management system written in C++, supporting basic oper
 Clone the repository or download the source code
 
 ## 🖼️ Sample Interface
-******************************
-******* 1. Add Contact ********
-******* 2. Show Contacts *******
-******* 3. Delete Contact ******
-******* 4. Search Contact ******
-******* 5. Modify Contact ******
-******* 6. Clear All Contacts ***
-******* 0. Exit Program ********
-******************************
+
+ 1. Add Contact 
+ 2. Show Contacts 
+ 3. Delete Contact 
+ 4. Search Contact 
+ 5. Modify Contact 
+ 6. Clear All Contacts 
+ 0. Exit Program 
+
 
 
 ## 📌 Project Highlights
