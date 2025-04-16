@@ -28,7 +28,7 @@
 
 克隆仓库或下载源码
 
-##🖼️ 使用界面示例
+## 🖼️ 使用界面示例
  1. Add Contact 
  2. Show Contacts 
  3. Delete Contact 
@@ -37,7 +37,7 @@
  6. Clear All Contacts 
  0. Exit Program 
 
-##📌 项目亮点
+## 📌 项目亮点
 
 输入验证（如性别输入校验）
 
